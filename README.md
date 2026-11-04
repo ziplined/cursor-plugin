@@ -35,7 +35,7 @@ None. Your sources, ideal client definition, views and destinations live in your
 
 - Documentation: [docs.ziplined.io](https://docs.ziplined.io)
 - Privacy policy: [ziplined.io/privacy](https://ziplined.io/privacy)
-- Support: [support@ziplined.io](mailto:support@ziplined.io)
+- Support: [jorrit@ziplined.io](mailto:jorrit@ziplined.io)
 
 ## License
 
