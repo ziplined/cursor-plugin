@@ -1,0 +1,14 @@
+{
+  "name": "ziplined",
+  "displayName": "Ziplined",
+  "version": "1.0.0",
+  "description": "Engagement intelligence for LinkedIn. See who engages with you and your competitors, which of them match your ideal client, and send them to Slack, Google Sheets, Clay or your outreach tool.",
+  "author": {
+    "name": "Ziplined",
+    "email": "support@ziplined.io"
+  },
+  "homepage": "https://ziplined.io",
+  "license": "MIT",
+  "keywords": ["linkedin", "engagement", "leads", "ideal-client", "sales", "prospecting", "mcp"],
+  "logo": "assets/logo.svg"
+}

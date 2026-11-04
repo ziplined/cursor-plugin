@@ -1,0 +1,11 @@
+---
+description: When to use the Ziplined tools for LinkedIn engagement, leads and ideal client questions
+alwaysApply: false
+---
+
+Use the Ziplined MCP tools when the user asks about LinkedIn engagement: who liked or commented on their posts or a competitor's posts, which people or companies match their ideal client, their saved views, or sending people to Slack, Google Sheets, Clay, a webhook or an outreach tool.
+
+- Start with `get_account` to see the connected account and its credits.
+- To find people, prefer `search_people` or an existing view (`list_views`, `get_view`) over guessing names.
+- Actions that spend credits or send people somewhere (`send_people`, `save_sync`, `refresh_data`) need the user's confirmation first. Say what will be sent and where.
+- Never invent LinkedIn data. If a tool returns nothing, say so.
