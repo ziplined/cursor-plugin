@@ -1,6 +1,6 @@
 # Ziplined for Cursor
 
-Ziplined is a LinkedIn radar for signal-based outbound. It finds people who engage with posts in your market (your team's, your competitors' and industry experts') and fit your ideal client, and sends those Leads to Slack, Clay, HeyReach or your outreach tool. It needs no LinkedIn login and never posts or messages on LinkedIn.
+Ziplined is a LinkedIn Lead Radar. It finds people who engage with your team, your competitors and your market, keeps the ones who fit your ideal client, and sends them to your tools while you sleep. It needs no LinkedIn login and never posts or messages on LinkedIn.
 
 This plugin connects Cursor to the Ziplined MCP server, so you can ask the agent questions like:
 

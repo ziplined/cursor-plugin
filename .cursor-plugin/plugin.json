@@ -2,7 +2,7 @@
   "name": "ziplined",
   "displayName": "Ziplined",
   "version": "1.0.0",
-  "description": "Ziplined is a LinkedIn radar for signal-based outbound. It finds people who engage with posts in your market and fit your ideal client, and sends those Leads to Slack, Clay, HeyReach or your outreach tool.",
+  "description": "Ziplined is a LinkedIn Lead Radar. It finds people who engage with your team, your competitors and your market, keeps the ones who fit your ideal client, and sends them to your tools while you sleep.",
   "author": {
     "name": "Ziplined",
     "email": "jorrit@ziplined.io"
