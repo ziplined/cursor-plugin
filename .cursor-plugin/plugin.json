@@ -2,7 +2,7 @@
   "name": "ziplined",
   "displayName": "Ziplined",
   "version": "1.0.0",
-  "description": "Engagement intelligence for LinkedIn. See who engages with you and your competitors, which of them match your ideal client, and send them to Slack, Google Sheets, Clay or your outreach tool.",
+  "description": "Ziplined shows which people engaging with LinkedIn posts fit your ideal client. Ask who to talk to this week and send leads to Slack, Google Sheets, Clay or your outreach tool.",
   "author": {
     "name": "Ziplined",
     "email": "jorrit@ziplined.io"
