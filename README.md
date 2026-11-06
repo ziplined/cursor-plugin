@@ -1,6 +1,6 @@
 # Ziplined for Cursor
 
-Ziplined is LinkedIn engagement intelligence for B2B teams. It shows which people engaging with LinkedIn posts (yours, your team's and your competitors') fit your ideal client, tells you who to talk to this week, and sends leads to Slack, Google Sheets, Clay or your outreach tool.
+Ziplined is a LinkedIn radar for signal-based outbound. It finds people who engage with posts in your market (your team's, your competitors' and industry experts') and fit your ideal client, and sends those Leads to Slack, Clay, HeyReach or your outreach tool. It needs no LinkedIn login and never posts or messages on LinkedIn.
 
 This plugin connects Cursor to the Ziplined MCP server, so you can ask the agent questions like:
 
